@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParcialAcostaDAM</string>
+    <string name="string_nombre">nombre</string>
+    <string name="IdEmpleado_string">IdEmpleado</string>
+    <string name="string_apellido">apellido</string>
+    <string name="activo">activo</string>
+</resources>
